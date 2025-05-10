@@ -1,0 +1,9 @@
+#Log files
+
+*.docx
+
+#Final Models
+
+*.pkl
+
+testSVM0.1.py

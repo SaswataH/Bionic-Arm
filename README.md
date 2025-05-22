@@ -2,7 +2,7 @@
 
 An ML based hand gesture recognition model. Different hand poses are classified by the model implemented.
 
-* [ This Readme.md is under going rapid changes right now, since a specific Data Analysis section is being included in the project, before training the ML model. ] *
+*[ This Readme.md is under going rapid changes right now, since a specific Data Analysis section is being included in the project, before training the ML model. ]*
 
 ## Resources
 
@@ -13,14 +13,6 @@ An ML based hand gesture recognition model. Different hand poses are classified 
 [Official SVM docs(Scikit-learn)](https://scikit-learn.org/stable/modules/svm.html)
 
 [Official Open CV docs](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
-
-## Present problems
-
-ML model stuck at approx. 70% accuracy. This often leads to failure to distinguish between Closed Fist and Thumbs Up.
-
-## Immediate solutions
-
-Collecting more varied datasets. Configuring SVM Model hyperparamters.
 
 ## Future goals
 

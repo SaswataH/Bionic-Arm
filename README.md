@@ -2,7 +2,7 @@
 
 An ML based hand gesture recognition model. Different hand poses are classified by the model implemented.
 
-## [ This Readme.md is under going rapid changes right now, since a specific Data Analysis section is being included in the project, before training the ML model. ]
+* [ This Readme.md is under going rapid changes right now, since a specific Data Analysis section is being included in the project, before training the ML model. ] *
 
 ## Resources
 

@@ -1,3 +1,5 @@
+#Data collection using the live video feed -> Press 'o' to record Open Fist , 't' to record Thumbs Up , 'f' to record Fist data in a .csv file
+
 import cv2
 import mediapipe as mp
 import csv

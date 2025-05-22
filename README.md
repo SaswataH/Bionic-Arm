@@ -1,21 +1,7 @@
 # Bionic Arm
 
 An ML based hand gesture recognition model. Different hand poses are classified by the model implemented.
-
-## Work flow
-
-Step 1: Hand gesture recognition using Google's MediaPipe library.
-
-Step 2: Collected data points are stored in a .csv file.
-
-Step 3: The dataset is then fed to the ML Model.
-
-Step 4: Live Hand gesture prediction using OpenCV live video capture.
-
-## Present features
-
-1. Support Vector Machine (with RBF kernel) model implemented
-2. Recognises 3 hand gestures - Open Palm , Thumbs up , Closed fist with a 72% accuracy rate.
+[ This Readme.md is under going rapid changes right now, since a specific Data Analysis section is being included in the project, before training the ML model. ]
 
 ## Resources
 

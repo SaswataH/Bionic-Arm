@@ -1,3 +1,5 @@
+# Testing live video capture using OBS Droid Cam and Open CV 
+
 import cv2
 
 cap = cv2.VideoCapture(2)  # replace with your index
